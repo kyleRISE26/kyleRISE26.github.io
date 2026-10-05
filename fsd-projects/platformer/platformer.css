@@ -1,17 +1,18 @@
 body {
   margin: 0px;
-  background-color: #202737;
+  background-image: url(https://static0.moviewebimages.com/wordpress/wp-content/uploads/2023/05/five-nights-at-freddys-poster-cut.png?w=1200&h=628&fit=crop);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-
 canvas {
-  background-color: lightblue;
   margin: 20px;
   border-radius: 15px;
-  border: 5px solid rgba(118, 0, 233, 0.375);
+
 }
 
 img {
