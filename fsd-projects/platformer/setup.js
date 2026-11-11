@@ -102,4 +102,5 @@ var collectableList = {
   kennedi: { image: "images/collectables/kennedi-head.png" },
   bonnie: { image: "images/collectables/bonnie.webp" },
   freddy: { image: "images/collectables/freddy.png" },
+  foxy: { image: "images/collectables/foxy.webp" },
 };

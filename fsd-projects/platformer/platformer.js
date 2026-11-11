@@ -44,12 +44,13 @@ createPlatform(800, 600, 100, 60, "purple");
 createCollectable("goldenFreddy", 1300, 170, 0.5, 0.7);
 createCollectable( "freddy", 550, 200);
 createCollectable( "bonnie", 840, 570);
-    
+    createCollectable( "foxy",340, 360 )
     // TODO 4 - Create Cannons
 createCannon("top", 300, 1000);
 createCannon("right", 220, 1000);
 createCannon("bottom", 1150,1000);
 createCannon("bottom", 900, 950);
+createCannon( "right", 800, 20);
     //////////////////////////////////
     // ONLY CHANGE ABOVE THIS POINT //
     //////////////////////////////////
